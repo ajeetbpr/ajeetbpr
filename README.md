@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋, I’m Ajeet Singh.
+
+* 💻 I am an experienced full-stack software engineer, currently working as the Technical Lead at AirU Inc.
+* 👀 I’m interested in everything related to full-stack JavaScript, React, and React frameworks, and improving software deployments through CI/CD and GitHub actions.
+* 📫 Visit me on LinkedIn. 
